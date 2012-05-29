@@ -1,2 +1,3 @@
-cegeka.github.com
-=================
+# Cegeka
+In close cooperation.
+http://www.cegeka.be/
